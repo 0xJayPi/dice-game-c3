@@ -1,0 +1,6 @@
+{
+  "localhost_DiceGameAddress": "0xCace1b78160AE76398F486c8a18044da0d66d86D",
+  "localhost_RiggedRollAddress": "0xD5ac451B0c50B9476107823Af206eD814a2e2580",
+  "goerli_DiceGameAddress": "0xE5c71f96F5D017C26f79c78446D97D48514610D0",
+  "goerli_RiggedRollAddress": "0x282Ad722B1e53396Ac9333FD2Da1A9303682C21f"
+}
