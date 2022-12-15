@@ -14,10 +14,6 @@
 
 > 💬 Meet other builders working on this challenge and get help in the [Challenge 3 telegram](https://t.me/+3StA0aBSArFjNjUx)!
 
----
-
-<<<<<<< HEAD
-## 🚩 Challenge 0: 🎟 Simple NFT Example
 =======
 ### Checkpoint 0: 📦 install 📚
 
